@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **Graphics Design**
 
-- 🌱 I’m currently learning **Diploma In Computer Science And Engineering, At NIELIT, AIZAWL**
+- 🌱 I’m currently learning **Diploma In Computer Science And Engineering,**
 
 - 👯 I’m looking to collaborate on **whatsapp bots, ai, website, graphics design**
 
