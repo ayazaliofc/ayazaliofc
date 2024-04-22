@@ -17,7 +17,7 @@
 
 - 🤝 I’m looking for help with **java script**
 
-- 💬 about me **iam "fifteen" years old guy**
+- 💬 about me **iam "Sixteen" years old guy**
 
 - 📫 How to reach me **ayazalee955@gmail.com**
 
