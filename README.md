@@ -23,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NobitaEditx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NobitaEditx" height="30" width="40" /></a>
+<a href="https://twitter.com/ayazaleeofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NobitaEditx" height="30" width="40" /></a>
 <a href="https://fb.com/ayaz alee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ayaz alee" height="30" width="40" /></a>
-<a href="https://instagram.com/ayazaleeofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nobita_917" height="30" width="40" /></a>
+<a href="https://instagram.com/ayazaliofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_nobita_917" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
