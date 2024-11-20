@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm AYaZ Alee</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://telegra.ph/file/d7720dc3b52fda5235518.jpg">
+<img align="right" alt="Coding" width="400" src="https://files.catbox.moe/12rbsd.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20views&color=0e75b6&style=flat" alt="maestro-11" /> </p>
 
