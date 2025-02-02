@@ -26,10 +26,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=tokyonight)](https://git.io/streak-stats)
 
 📊 **GitHub Stats**  
-![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayazaliofc-11&show_icons=true&theme=tokyonight)
+![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=tokyonight)
 
 🌟 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc-11&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=tokyonight)
 
 ---
 
