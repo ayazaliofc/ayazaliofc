@@ -1,4 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bungee+Shade&size=50&pause=1000&color=000000&center=true&width=910&height=100&lines=Hello!+Welcome+to+My+Profile;Passionate+Frontend+Developer;Graphics+Designer;Tech+Enthusiast" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=500&color=FF5733&vCenter=true&width=950&height=120&lines=🚀+Welcome+to+My+Profile!;💻+Creative+Frontend+Developer;🎨+Innovative+Graphics+Designer;🔧+Tech+Explorer;🌍+Open-Source+Contributor" 
+  alt="Typing SVG" />
+</a>
 
 <h1 align="center">Hi 👋, I'm AYaZ Alee</h1>
 <h3 align="center">A Passionate Frontend Developer & Graphics Designer from Pakistan 🇵🇰</h3>
