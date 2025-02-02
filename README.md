@@ -20,19 +20,7 @@
 - 🤖 Tech enthusiast exploring **AI, Bots, and Web Automation**  
 - 📚 Currently learning **Advanced JavaScript & Full Stack Development**  
 - 🛠️ Building projects in **JavaScript, Python, and C++**  
-- 🔥 16 years old and hungry to learn new technologies!  
-
----
-
-## 🏆 GitHub Achievements:
-🏅 **GitHub Streaks**  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=tokyonight)](https://git.io/streak-stats)
-
-📊 **GitHub Stats**  
-![Ayaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=tokyonight)
-
-🌟 **Top Languages**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=tokyonight)
+- 🔥 16 years old and hungry to learn new technologies! 
 
 ---
 
