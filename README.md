@@ -10,7 +10,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
-<p align="left"> <a href="https://Instagram.com/ayazaleeofc" target="blank"><img src="https://img.shields.io/Instagram/follow/ayazaleeofc?logo=instagram &style=for-the-badge" alt="Twitter Follow" /></a> </p>
+<p align="left"> 
+  <a href="https://instagram.com/ayazaliofc" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram&style=for-the-badge" alt="Instagram Follow" />
+  </a> 
+</p>
 
 ---
 
