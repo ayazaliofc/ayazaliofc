@@ -3,7 +3,7 @@
   alt="Typing SVG" />
 </a>
 
-<h1 align="center">𝐇ᴇʏ 👋, 𝐈'ᴍ 〆 𝐀ʏᴀᴢ 𓆩愛𓆪</h1>
+<h1 align="center">Hi 👋, I'm 〆 𝐀ʏᴀᴢ 𓆩愛𓆪</h1>
 <h3 align="center">A Passionate Frontend Developer & Graphics Designer from Pakistan 🇵🇰</h3>
 
 <img align="right" alt="Coding" width="400" src="https://files.catbox.moe/12rbsd.jpeg">
