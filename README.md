@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1200&color=000000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Frontend+Developer;✨+Clean+Code+%7C+Modern+UI;🎯+JavaScript+%7C+React+%7C+Tailwind+%7C+Next.js;💡+Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1200&color=ffffff&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Frontend+Developer;✨+Clean+Code+%7C+Modern+UI;🎯+JavaScript+%7C+React+%7C+Tailwind+%7C+Next.js;💡+Always+Learning+Something+New)](https://git.io/typing-svg)
+
+
 
 <h1 align="center">Hi 👋, I'm 〆 𝐀ʏᴀᴢ 𓆩愛𓆪</h1>
 <h3 align="center">A Passionate Frontend Developer & Graphics Designer from Pakistan 🇵🇰</h3>
