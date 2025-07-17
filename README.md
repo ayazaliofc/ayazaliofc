@@ -16,23 +16,32 @@
 
 ---
 
-## 🔥 About Me:
-
-```js
-const ayaz = {
+const aboutMe = {
+const Ayaz = {
+  name: "〆 𝐀ʏᴀᴢ 𓆩愛𓆪",
   age: 16,
-  location: "Pakistan 🇵🇰",
-  passions: ["Frontend Development", "UI/UX Design", "Automation"],
-  loves: ["Designing clean UI", "Creative coding", "Building bots"],
-  techFocus: ["AI", "Web Automation", "Reactive Interfaces"],
-  learning: ["Advanced JavaScript", "Full Stack Development"],
-  stack: ["JavaScript", "Python", "C++"],
-  mindset: "Always learning, always building 🚀"
+  location: "🌍 Pakistan",
+  role: "Frontend Developer & UI/UX Designer",
+  focus: ["Clean Code", "Modern UI", "Automation", "Web Bots"],
+  stack: ["JavaScript", "Python", "C++", "Tailwind", "React"],
+  currentlyLearning: ["Next.js", "Advanced JavaScript", "Full Stack"],
+  passionLevel: "🔥🔥🔥",
+  motto: "Design. Build. Repeat. 🚀",
+  
+  introduce() {
+    return `Hey! I'm ${this.name}, a ${this.age}-year-old dev from ${this.location} 🚀`;
+  },
+
+  summary() {
+    return `I love crafting modern UIs, building automation tools, and pushing code with style ✨`;
+  }
 };
+
+console.log(Ayaz.introduce());
+console.log(Ayaz.summary());
 
 
 ---
-
 ## 🚀 Tech Stack:
 ### **💻 Programming & Scripting**
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
