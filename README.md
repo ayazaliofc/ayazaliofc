@@ -77,34 +77,16 @@
 
 ---
 
-## 🌍 Highlighted Creations
-
-### 🌟 [Interactive Portfolio](https://github.com/MAESTRO-11/portfolio)
-A dynamic, responsive portfolio showcasing my skills and creativity.  
-**Tech**: React, Tailwind CSS, JavaScript  
-**[Live Demo](#)** | **[Repo](#)**
-
-### 🗣️ [Smart AI Chatbot](https://github.com/MAESTRO-11/ai-chatbot)
-An AI-powered chatbot with natural language processing for seamless interaction.  
-**Tech**: Python, OpenAI API, FastAPI  
-**[Live Demo](#)** | **[Repo](#)**
-
-### 📲 [WhatsApp Automation Bot](https://github.com/MAESTRO-11/whatsapp-bot)
-A bot to automate messaging and tasks on WhatsApp.  
-**Tech**: JavaScript, Node.js, WhatsApp API  
-**[Live Demo](#)** | **[Repo](#)**
-
----
 
 ## 📈 My GitHub Journey
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MAESTRO-11&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAESTRO-11&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAESTRO-11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
 </div>
 
 ---
