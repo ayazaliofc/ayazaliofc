@@ -1,104 +1,146 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1200&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Frontend+Developer;✨+Clean+Code+%7C+Modern+UI;🎯+JavaScript+%7C+React+%7C+Tailwind+%7C+Next.js;💡+Always+Learning+Something+New)](https://git.io/typing-svg)
+<div align="center">
+  <h1>🌌 〆 𝐀𝐘𝐀𝐙 𓆩愛𓆪</h1>
+  <h3>Frontend Sorcerer | UI/UX Visionary | AI Trailblazer from Pakistan 🇵🇰</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=Coding+the+Future;Designing+Seamless+Experiences;Exploring+AI+%26+Automation" alt="Typing SVG" />
+</div>
 
+<div align="center">
+  <img src="https://files.catbox.moe/12rbsd.jpeg" alt="Ayaz Coding" width="300" style="border-radius: 20px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);" />
+</div>
 
-<h1 align="center">Hi 👋, I'm 〆 𝐀ʏᴀᴢ 𓆩愛𓆪</h1>
-<h3 align="center">A Passionate Frontend Developer & Graphics Designer from Pakistan 🇵🇰</h3>
+<br>
 
-<img align="right" alt="Coding" width="400" src="https://files.catbox.moe/12rbsd.jpeg">
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20Views&color=FF6F61&style=flat-square" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20Views&color=FF6F61&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://instagram.com/ayazaliofc" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%40ayazaliofc-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayaz-alee-682a82324" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayaz_Alee-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+---
 
-<p align="left"> 
-  <a href="https://instagram.com/ayazaliofc" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-blue?logo=instagram&style=for-the-badge" alt="Instagram Follow" />
-  </a> 
+## 🌠 Who Am I?
+
+👨‍🚀 A **16-year-old tech prodigy** from Pakistan, weaving **code and creativity** to build immersive digital worlds. My mission? To craft **responsive, intuitive, and futuristic** web experiences that leave a mark.
+
+- ⚡ **Frontend Developer**: Sculpting pixel-perfect UIs with **React**, **Next.js**, and **Tailwind CSS**.  
+- 🎨 **UI/UX Designer**: Creating visually stunning interfaces with **Figma** and **Adobe Creative Suite**.  
+- 🤖 **AI & Automation Enthusiast**: Building intelligent bots with **Python** and **APIs**.  
+- 🌱 **Currently Exploring**: **TypeScript**, **GraphQL**, and **Full-Stack Mastery**.  
+
+> **Vision**: _"Transform ideas into reality with code, design, and a touch of innovation."_
+
+---
+
+## 🧰 My Tech Arsenal
+
+### 🖥️ Coding & Frameworks
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+### 🎨 Frontend & Styling
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+
+### ⚙️ Backend & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
+</p>
+
+### 🖌️ Design & Creativity
+<p align="center">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+</p>
+
+### 🖱️ Platforms
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white" alt="Windows" />
 </p>
 
 ---
-## 🪐 About me:
 
-✨ 𝐇𝐞𝐲 𝐭𝐡𝐞𝐫𝐞! 𝐈’𝐦 𝐚 𝟏𝟔-𝐲𝐞𝐚𝐫-𝐨𝐥𝐝 𝐭𝐞𝐜𝐡 𝐞𝐧𝐭𝐡𝐮𝐬𝐢𝐚𝐬𝐭 𝐨𝐧 𝐚 𝐦𝐢𝐬𝐬𝐢𝐨𝐧 𝐭𝐨 𝐜𝐫𝐚𝐟𝐭 𝐛𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥, 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞, 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐝𝐢𝐠𝐢𝐭𝐚𝐥 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞𝐬.
+## 🌍 Highlighted Creations
 
-👨‍💻 𝐅𝐫𝐨𝐧𝐭𝐞𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫  
-𝐂𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐜𝐥𝐞𝐚𝐧 𝐜𝐨𝐝𝐞, 𝐦𝐨𝐝𝐞𝐫𝐧 𝐔𝐈, 𝐚𝐧𝐝 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐥𝐚𝐲𝐨𝐮𝐭𝐬.
+### 🌟 [Interactive Portfolio](https://github.com/MAESTRO-11/portfolio)
+A dynamic, responsive portfolio showcasing my skills and creativity.  
+**Tech**: React, Tailwind CSS, JavaScript  
+**[Live Demo](#)** | **[Repo](#)**
 
-🎨 𝐔𝐈/𝐔𝐗 𝐀𝐞𝐬𝐭𝐡𝐞𝐭𝐞  
-𝐒𝐥𝐞𝐞𝐤 𝐢𝐧𝐭𝐞𝐫𝐟𝐚𝐜𝐞𝐬 ✦ 𝐬𝐦𝐨𝐨𝐭𝐡 𝐮𝐱 ✦ 𝐟𝐥𝐚𝐰𝐥𝐞𝐬𝐬 𝐝𝐞𝐬𝐢𝐠𝐧
+### 🗣️ [Smart AI Chatbot](https://github.com/MAESTRO-11/ai-chatbot)
+An AI-powered chatbot with natural language processing for seamless interaction.  
+**Tech**: Python, OpenAI API, FastAPI  
+**[Live Demo](#)** | **[Repo](#)**
 
-🤖 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 & 𝐀𝐈 𝐄𝐱𝐩𝐥𝐨𝐫𝐞𝐫  
-𝐁𝐨𝐭𝐬, 𝐬𝐦𝐚𝐫𝐭 𝐬𝐲𝐬𝐭𝐞𝐦𝐬, 𝐚𝐧𝐝 𝐢𝐧𝐭𝐞𝐥𝐥𝐢𝐠𝐞𝐧𝐭 𝐰𝐨𝐫𝐤𝐟𝐥𝐨𝐰𝐬.
-
-📚 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠  
-𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐍𝐞𝐱𝐭.𝐣𝐬, 𝐚𝐧𝐝 𝐅𝐮𝐥𝐥-𝐒𝐭𝐚𝐜𝐤 𝐖𝐢𝐳𝐚𝐫𝐝𝐫𝐲.
-
-🛠️ 𝐒𝐭𝐚𝐜𝐤: 𝐉𝐒 • 𝐑𝐞𝐚𝐜𝐭 • 𝐏𝐲𝐭𝐡𝐨𝐧 • 𝐂++
-
-🧠 𝐂𝐮𝐫𝐢𝐨𝐮𝐬. 𝐂𝐫𝐞𝐚𝐭𝐢𝐯𝐞. 𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐭.
-𝐈 𝐛𝐮𝐢𝐥𝐝 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 — 𝐈 𝐥𝐞𝐚𝐫𝐧 𝐭𝐨 𝐛𝐮𝐢𝐥𝐝.
-
----
-## 🚀 Tech Stack:
-### **💻 Programming & Scripting**
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **🌐 Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-### **⚡ Backend & Databases**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### **🎨 Graphic Design & UI/UX**
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-
-### **🖥️ Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+### 📲 [WhatsApp Automation Bot](https://github.com/MAESTRO-11/whatsapp-bot)
+A bot to automate messaging and tasks on WhatsApp.  
+**Tech**: JavaScript, Node.js, WhatsApp API  
+**[Live Demo](#)** | **[Repo](#)**
 
 ---
 
-## 🌍 Connect with Me:  
-<p align="left">
-<a href="https://www.facebook.com/share/16fLCRGPE8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/ayazaliofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayaz-alee-682a82324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+## 📈 My GitHub Journey
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MAESTRO-11&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MAESTRO-11&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MAESTRO-11&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
+</div>
 
 ---
 
-## ⚡ Fun Facts:
-- 🕹️ I love playing **strategy & RPG games**  
-- 🎧 Music & **Lofi beats** keep me focused while coding  
-- 🤯 I enjoy solving **challenging coding problems**  
-- 🏆 I aim to be a **Full-Stack Developer** in the near future  
+## 🔗 Let's Connect
+
+<div align="center">
+  <a href="https://www.facebook.com/share/16fLCRGPE8/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="35" width="45" />
+  </a>
+  <a href="https://instagram.com/ayazaliofc" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram Svg" alt="Instagram" height="35" width="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/ayaz-alee-682a82324" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="35" width="45" />
+  </a>
+</div>
 
 ---
 
-## 🚀 Latest Projects:
-### 1️⃣ **Portfolio Website**  
-A fully responsive and interactive personal portfolio using **HTML, CSS & JavaScript**  
-
-### 2️⃣ **AI-Powered Chatbot**  
-Built an AI chatbot using **Python & OpenAI API**  
-
-### 3️⃣ **Custom WhatsApp Bot**  
-Developed an automation bot for WhatsApp using **JavaScript**  
+## 🎉 Quick Facts
+- 🎮 **Gamer at Heart**: Love diving into **strategy & RPG** worlds.  
+- 🎶 **Coding Jams**: Lo-fi and electronic beats keep me in the zone.  
+- 🧩 **Problem Solver**: Thrive on cracking tough coding challenges.  
+- 🚀 **Big Goal**: Master **Full-Stack Development** by 2026!
 
 ---
 
-## 🔥 My Motto:
-_"Stay curious, keep learning, and build amazing things!"_
+## 💬 Ready to Build Something Epic?
+
+🔥 I'm open to collaborating on **Web Development**, **AI**, or **Automation** projects. Got an idea? Let's make it happen!  
+
+📧 DM me on [LinkedIn](https://www.linkedin.com/in/ayaz-alee-682a82324) or [Instagram](https://instagram.com/ayazaliofc).
 
 ---
 
-### 🎯 Let's Collaborate!
-If you are working on **exciting projects** related to AI, Web Development, or Automation, feel free to **connect with me**! 🚀
-
----
-
-⭐ **Thank you for visiting my GitHub profile!** ⭐
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20for%20Exploring-🚀-FF6F61?style=flat-square" alt="Thanks for Exploring" />
+</div>
