@@ -17,12 +17,19 @@
 ---
 
 ## 🔥 About Me:
-- 🚀 Passionate about **Frontend Development**, **UI/UX Design**, and **Automation**  
-- 🎨 Love designing intuitive and aesthetically pleasing interfaces  
-- 🤖 Tech enthusiast exploring **AI, Bots, and Web Automation**  
-- 📚 Currently learning **Advanced JavaScript & Full Stack Development**  
-- 🛠️ Building projects in **JavaScript, Python, and C++**  
-- 🔥 16 years old and hungry to learn new technologies! 
+
+```js
+const ayaz = {
+  age: 16,
+  location: "Pakistan 🇵🇰",
+  passions: ["Frontend Development", "UI/UX Design", "Automation"],
+  loves: ["Designing clean UI", "Creative coding", "Building bots"],
+  techFocus: ["AI", "Web Automation", "Reactive Interfaces"],
+  learning: ["Advanced JavaScript", "Full Stack Development"],
+  stack: ["JavaScript", "Python", "C++"],
+  mindset: "Always learning, always building 🚀"
+};
+
 
 ---
 
