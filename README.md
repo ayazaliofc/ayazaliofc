@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌌 〆 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 !!</h1>
+  <h1>〆 𝐖𝐄𝐋𝐂𝐎𝐌𝐄 !!</h1>
   <h3>Frontend Sorcerer | UI/UX Visionary | AI Trailblazer from Pakistan 🇵🇰</h3>
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=fading+in+the+dark;Designing+Seamless+Experiences;Exploring+AI+%26+Automation" alt="Typing SVG" />
 </div>
