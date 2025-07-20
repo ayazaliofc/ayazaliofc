@@ -31,7 +31,7 @@
 - ⚡ **Frontend Developer**: Sculpting pixel-perfect UIs with **React**, **Next.js**, and **Tailwind CSS**.  
 - 🎨 **UI/UX Designer**: Creating visually stunning interfaces with **Figma** and **Adobe Creative Suite**.  
 - 🤖 **AI & Automation Enthusiast**: Building intelligent bots with **Python** and **APIs**.  
-- 🌱 **Currently Exploring**: **TypeScript**, **GraphQL**, and **Full-Stack Mastery**.  
+- 🌱 **Currently Exploring**: **javaScript**, **GraphQL**, and **Full-Stack Mastery**.  
 
 > **Vision**: _"Transform ideas into reality with code, design, and a touch of innovation."_
 
