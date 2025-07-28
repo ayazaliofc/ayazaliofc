@@ -12,7 +12,7 @@
 
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Views&color=FF6F61&style=flat-square" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20Views&color=FF6F61&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Views&color=FF6F61&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://instagram.com/ayazaliofc" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40ayazaliofc-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
