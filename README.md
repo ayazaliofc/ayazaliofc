@@ -11,7 +11,7 @@
 <br>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20Views&color=FF6F61&style=flat-square" target="_blank">
+  <a href="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Views&color=FF6F61&style=flat-square" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=MAESTRO-11&label=Profile%20Views&color=FF6F61&style=flat-square" alt="Profile Views" />
   </a>
   <a href="https://instagram.com/ayazaliofc" target="_blank">
