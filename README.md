@@ -80,23 +80,38 @@
 
 ## 📈 My GitHub Journey
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=dracula&hide_border=true" alt="GitHub Streak" width="400" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=tokyonight" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=tokyonight" width="47%" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="300" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazaliofc&theme=tokyonight" />
+</p>
 
 ---
-
-##  Connect with Me:  
-<p align="left">
-<a href="https://www.facebook.com/share/16fLCRGPE8/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://instagram.com/ayazaliofc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ayaz-alee-682a82324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
+<!-- Contact Section with Animated Icons -->
+<h2 style="margin: 3rem 0 1rem; color: #0F172A;">📬 Let's Connect</h2>
+<div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0;">
+  <a href="https://twitter.com/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="50" alt="Twitter"/>
+  </a>
+  <a href="mailto:ayazaliofc@gmail.com" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ayazali-dev" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50" alt="LinkedIn"/>
+  </a>
+  <a href="https://discord.com/users/yourid" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="50" alt="Discord"/>
+  </a>
+  <a href="https://facebook.com/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+    <img src="https://img.icons8.com/color/96/000000/facebook.png" width="50" alt="Facebook"/>
+  </a>
+</div>
 
 ---
 
