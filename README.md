@@ -46,6 +46,9 @@
 ---
 
 
+
+
+
 ## 📈 My GitHub Journey
 
 <p align="center">
@@ -66,10 +69,10 @@
   <a href="mailto:ayazaliofc@gmail.com" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/ayazali-dev" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://www.linkedin.com/in/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50" alt="LinkedIn"/>
   </a>
-  <a href="https://discord.com/users/yourid" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
+  <a href="https://discord.com/users/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
     <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="50" alt="Discord"/>
   </a>
   <a href="https://facebook.com/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
