@@ -84,10 +84,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=tokyonight" width="47%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=tokyonight" width="47%" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=tokyonight" />
-</p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazaliofc&theme=tokyonight" />
 </p>
