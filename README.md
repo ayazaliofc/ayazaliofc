@@ -19,16 +19,18 @@
 
 ---
 
-### 🌠 **Who Am I?**
+### 🌠 **𝐀ʙᴏᴜᴛ 𝐌ᴇ**
 
-👨‍🚀 **16-year-old tech prodigy** crafting **responsive, futuristic web experiences** with a touch of art & innovation.
-
-- 🎨 **Frontend Dev**: React ⚡ Next.js ⚡ Tailwind  
-- 🧠 **UI/UX Artisan**: Figma & Adobe Suite  
-- 🤖 **AI Innovator**: Python • APIs • Automation  
-- 🌱 **Exploring**: Full-Stack, GraphQL, Advanced JavaScript  
-
-> 💡 *"Turning abstract ideas into reality with code, design & vision."*
+```js
+const me = {
+  name: "𝗔𝘆𝗮𝘇 𝗔𝗹𝗲𝗲",
+  from: "𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻",
+  role: "𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃",
+  passion: ["𝗨𝗜/𝗨𝗫", "𝗥𝗲𝗮𝗰𝘁", "𝗔𝗜 𝗕𝗼𝘁𝘀", "𝗧𝘄𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦"],
+  mindset: "𝗕𝘂𝗶𝗹𝗱. 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗲. 𝗜𝗻𝘀𝗽𝗶𝗿𝗲.",
+  hobbies: ["𝗖𝗼𝗱𝗶𝗻𝗴", "𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴", "𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴", "𝗚𝗮𝗺𝗶𝗻𝗴"]
+};
+```
 
 ---
 
