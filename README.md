@@ -39,7 +39,7 @@ const me = {
 ### 🧰 **Tech Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,python,nodejs,figma,mongodb,linux,github,vercel,heroku,photoshop,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,css,python,nodejs,figma,mongodb,linux,github,vercel,heroku,photoshop,vscode&perline=8" />
 </p>
 
 ---
