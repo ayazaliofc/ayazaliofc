@@ -1,103 +1,79 @@
 <div align="center">
-  <h1>〆 𝐇𝐄𝐋𝐋𝐎 👋 </h1>
-  <h3>Frontend Sorcerer | UI/UX Visionary | AI Trailblazer from Pakistan 🇵🇰</h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3500&pause=800&color=FF6F61&center=true&vCenter=true&width=500&lines=fading+in+the+dark;Designing+Seamless+Experiences;Exploring+AI+%26+Automation" alt="Typing SVG" />
+  <h1>⚡ 𝐇𝐄𝐋𝐋𝐎, 𝐖𝐎𝐑𝐋𝐃 👋</h1>
+  <h3>🚀 Frontend Sorcerer • UI/UX Visionary • AI Trailblazer</h3>
+  <h4>🌍 From Pakistan 🇵🇰 | Crafting Digital Masterpieces</h4>
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=F97316&center=true&vCenter=true&width=600&lines=Designing+Seamless+Experiences;Fusing+Code+%26+Creativity;Exploring+AI+%26+Automation;Building+the+Future+of+Web" alt="Typing Animation" />
 </div>
-
-<div align="center">
-  <img src="https://files.catbox.moe/12rbsd.jpeg" alt="Ayaz Coding" width="300" style="border-radius: 20px; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);" />
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Views&color=FF6F61&style=flat-square" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Views&color=FF6F61&style=flat-square" alt="Profile Views" />
-  </a>
-  <a href="https://instagram.com/ayazaliofc" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%40ayazaliofc-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.linkedin.com/in/ayaz-alee-682a82324" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Ayaz_Alee-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
-
-## 🌠 Who Am I?
-
-👨‍🚀 A **16-year-old tech prodigy** from Pakistan, weaving **code and creativity** to build immersive digital worlds. My mission? To craft **responsive, intuitive, and futuristic** web experiences that leave a mark.
-
-- ⚡ **Frontend Developer**: Sculpting pixel-perfect UIs with **React**, **Next.js**, and **Tailwind CSS**.  
-- 🎨 **UI/UX Designer**: Creating visually stunning interfaces with **Figma** and **Adobe Creative Suite**.  
-- 🤖 **AI & Automation Enthusiast**: Building intelligent bots with **Python** and **APIs**.  
-- 🌱 **Currently Exploring**: **javaScript**, **GraphQL**, and **Full-Stack Mastery**.  
-
-> **Vision**: _"Transform ideas into reality with code, design, and a touch of innovation."_
-
----
-
-## 🧰 My Tech Arsenal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,css,nextjs,tailwind,figma,linux,py,nodejs,github,heroku,vercel,photoshop,mongodb,vscode&perline=8" />
-</p>
-
----
-
-
-
-
-
-## 📈 My GitHub Journey
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=tokyonight" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=tokyonight" width="47%" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazaliofc&theme=tokyonight" />
-</p>
-
----
-<!-- Contact Section with Animated Icons -->
-<h2 style="margin: 3rem 0 1rem; color: #0F172A;">📬 Let's Connect</h2>
-<div style="display: flex; justify-content: center; gap: 1.5rem; margin: 2rem 0;">
-  <a href="https://twitter.com/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/96/000000/twitter--v1.png" width="50" alt="Twitter"/>
-  </a>
-  <a href="mailto:ayazaliofc@gmail.com" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/96/000000/gmail-new.png" width="50" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/96/000000/linkedin.png" width="50" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/96/000000/discord-logo.png" width="50" alt="Discord"/>
-  </a>
-  <a href="https://facebook.com/ayazaliofc" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-    <img src="https://img.icons8.com/color/96/000000/facebook.png" width="50" alt="Facebook"/>
-  </a>
-</div>
-
----
-
-## 🎉 Quick Facts
-- 🎮 **Gamer at Heart**: Love diving into **strategy & RPG** worlds.  
-- 🎶 **Coding Jams**: Lo-fi and electronic beats keep me in the zone.  
-- 🧩 **Problem Solver**: Thrive on cracking tough coding challenges.  
-- 🚀 **Big Goal**: Master **Full-Stack Development** by 2026!
-
----
-
-## 💬 Ready to Build Something Epic?
-
-🔥 I'm open to collaborating on **Web Development**, **AI**, or **Automation** projects. Got an idea? Let's make it happen!  
-
-📧 DM me on [LinkedIn](https://www.linkedin.com/in/ayaz-alee-682a82324) or [Instagram](https://instagram.com/ayazaliofc).
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20Exploring-🚀-FF6F61?style=flat-square" alt="Thanks for Exploring" />
+  <img src="https://files.catbox.moe/12rbsd.jpeg" alt="Ayaz Coding" width="320" style="border-radius: 24px; box-shadow: 0 8px 20px rgba(0,0,0,0.35);" />
+</div>
+<div align="center">
+  <a href="https://github.com/ayazaliofc">
+    <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Visits&color=000000&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
+
+---
+
+### 🌠 **Who Am I?**
+
+👨‍🚀 **16-year-old tech prodigy** crafting **responsive, futuristic web experiences** with a touch of art & innovation.
+
+- 🎨 **Frontend Magician**: React ⚡ Next.js ⚡ Tailwind  
+- 🧠 **UI/UX Artisan**: Figma & Adobe Suite  
+- 🤖 **AI Innovator**: Python • APIs • Automation  
+- 🌱 **Exploring**: Full-Stack, GraphQL, Advanced JavaScript  
+
+> 💡 *"Turning abstract ideas into reality with code, design & vision."*
+
+---
+
+### 🧰 **Tech Arsenal**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,python,nodejs,figma,mongodb,linux,github,vercel,heroku,photoshop,vscode&perline=8" />
+</p>
+
+---
+
+### 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayazaliofc&theme=radical&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayazaliofc&theme=radical" />
+</p>
+
+---
+
+### 📬 **Let's Connect**
+
+<p align="center">
+  <a href="https://instagram.com/ayazaliofc"><img src="https://img.shields.io/badge/Instagram-FF6F61?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ayaz-alee-682a82324"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ayazaliofc@gmail.com"><img src="https://img.shields.io/badge/Email-DB4437?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://twitter.com/ayazaliofc"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://discord.com/users/ayazaliofc"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+</p>
+
+---
+
+### 🎉 **Quick Facts**
+
+- 🎮 Gamer @ Heart (Strategy + RPG worlds)  
+- 🎶 Coding to Lo-fi & Electronic Beats  
+- 🧩 Loves Breaking Down Complex Problems  
+- 🚀 Goal: **Full-Stack Mastery by 2026**  
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Thanks%20For%20Visiting-🚀-FF6F61?style=for-the-badge" />
 </div>
