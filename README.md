@@ -23,7 +23,7 @@
 
 👨‍🚀 **16-year-old tech prodigy** crafting **responsive, futuristic web experiences** with a touch of art & innovation.
 
-- 🎨 **Frontend Magician**: React ⚡ Next.js ⚡ Tailwind  
+- 🎨 **Frontend Dev**: React ⚡ Next.js ⚡ Tailwind  
 - 🧠 **UI/UX Artisan**: Figma & Adobe Suite  
 - 🤖 **AI Innovator**: Python • APIs • Automation  
 - 🌱 **Exploring**: Full-Stack, GraphQL, Advanced JavaScript  
