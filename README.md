@@ -19,6 +19,13 @@ const ayaz = {
 } satisfies Developer;
 ```
 
+<div align="center">
+  <a href="https://github.com/ayazaliofc">
+    <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile%20Visits&color=000000&style=for-the-badge" alt="Profile Views" />
+  </a>
+</div>
+
+
 </td>
 <td width="50%" valign="top">
 
@@ -64,25 +71,3 @@ const ayaz = {
 </div>
 
 ---
-
-<h3 align="center">🏆 Trophies</h3>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayazaliofc&theme=github_dark&no-frame=true&row=1&column=7&margin-w=8" />
-</div>
-
----
-
-<div align="center">
-
-**"The best way to predict the future is to build it."**
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=ayazaliofc&label=Profile+Views&color=58a6ff&style=flat-square)](https://github.com/ayazaliofc)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/ayazaliofc?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117)](https://github.com/ayazaliofc)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d1117&height=100&section=footer&animation=fadeIn"/>
