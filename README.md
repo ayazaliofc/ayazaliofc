@@ -7,16 +7,16 @@
 <td width="50%" valign="top">
 
 ```typescript
-const ayaz = {
-  name    : "Ayaz Alee",
-  age     : "Teen",
-  origin  : "Pakistan 🇵🇰",
-  role    : "Frontend Developer",
-  passion : ["UI/UX", "React", "AI Bots", "TailwindCSS"],
-  hobbies : ["Coding", "Cricket 🏏", "Anime", "Gaming"],
-  mindset : "Build · Innovate · Inspire",
-  status  : "Always building something 🔥"
-} satisfies Developer;
+const me = {
+  name: "𝗔𝘆𝗮𝘇 𝗔𝗹𝗲𝗲",
+  age: "𝗧𝗲𝗲𝗻",
+  love: "𝗖𝗿𝗶𝗰𝗸𝗲𝘁. 𝗔𝗻𝗶𝗺𝗲.",
+  from: "𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻",
+  role: "𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃",
+  passion: ["𝗨𝗜/𝗨𝗫", "𝗥𝗲𝗮𝗰𝘁", "𝗔𝗜 𝗕𝗼𝘁𝘀", "𝗧𝘄𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦"],
+  mindset: "𝗕𝘂𝗶𝗹𝗱. 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗲. 𝗜𝗻𝘀𝗽𝗶𝗿𝗲.",
+  hobbies: ["𝗖𝗼𝗱𝗶𝗻𝗴", "𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴", "𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴", "𝗚𝗮𝗺𝗶𝗻𝗴"]
+};
 ```
 
 <div align="center">
@@ -62,12 +62,6 @@ const ayaz = {
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ayazaliofc&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b72&currStreakNum=ffffff&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e" width="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" width="40%"/>
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayazaliofc&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="98%"/>
 </div>
 
 ---
