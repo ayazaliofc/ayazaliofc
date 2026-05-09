@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:000000&height=250&section=header&text=AYAZ%20ALEE&fontSize=72&fontColor=58a6ff&fontAlignY=45&desc=Frontend%20Engineer%20%E2%80%A2%20UI%2FUX%20%E2%80%A2%20Bot%20Developer&descSize=16&descAlignY=65&descColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0d1117,100:000000&height=250&section=header&text=AYAZ%20ALEE&fontSize=72&fontColor=58a6ff&fontAlignY=45&desc=%20%E2%80%A2%20UI%2FUX%20%E2%80%A2Bot%20Developer&descSize=16&descAlignY=65&descColor=8b949e&animation=fadeIn&stroke=58a6ff&strokeWidth=1"/>
 
 <br>
 
@@ -12,7 +12,6 @@ const me = {
   age: "𝗧𝗲𝗲𝗻",
   love: "𝗖𝗿𝗶𝗰𝗸𝗲𝘁. 𝗔𝗻𝗶𝗺𝗲.",
   from: "𝗣𝗮𝗸𝗶𝘀𝘁𝗮𝗻",
-  role: "𝗙𝗿𝗼𝗻𝘁𝗲𝗻𝗱 𝗗𝗲𝘃",
   passion: ["𝗨𝗜/𝗨𝗫", "𝗥𝗲𝗮𝗰𝘁", "𝗔𝗜 𝗕𝗼𝘁𝘀", "𝗧𝘄𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝗦𝗦"],
   mindset: "𝗕𝘂𝗶𝗹𝗱. 𝗜𝗻𝗻𝗼𝘃𝗮𝘁𝗲. 𝗜𝗻𝘀𝗽𝗶𝗿𝗲.",
   hobbies: ["𝗖𝗼𝗱𝗶𝗻𝗴", "𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴", "𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴", "𝗚𝗮𝗺𝗶𝗻𝗴"]
@@ -37,7 +36,7 @@ const me = {
 
 ---
 
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center"> 🎐Tech Stack</h3>
 
 <div align="center">
 
