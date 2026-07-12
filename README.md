@@ -60,16 +60,9 @@
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />  
 </p>
 
-<br/>
+</bir>
+<h2 align="center""> <img src="/imgs/title3.png" width="25"/> <em> Statistics </em> </h2>
+<div align = "center"> 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayazaliofc&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
 
-<h2 align="center">
-  <img src="/imgs/title3.png" width="25"/>
-  <em>Statistics</em>
-</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayazaliofc&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=false" width="100%"/>
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=ayazaliofc&show_icons=true&theme=radical&hide_border=true&bg_color=000000" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayazaliofc&layout=compact&hide_border=true&bg_color=000000" width="48%"/>
 </div>
