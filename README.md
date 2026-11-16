@@ -1,7 +1,6 @@
 <div align="center">
 <img src="assets/hero.svg" width="100%" alt="Ayaz">
 <img src="assets/social-l.svg" width="9.133%" alt=""><a href="https://t.me/ayazalee"><img src="assets/social-1.svg" width="18.917%" alt="telegram"></a><a href="https://www.chess.com/member/ayazaliofc"><img src="assets/social-chess.svg" width="15.285%" alt="chess"></a><a href="https://www.reddit.com/user/ayazalee"><img src="assets/social-3.svg" width="16.158%" alt="reddit"></a><a href="https://www.tiktok.com/@ayazaliofc"><img src="assets/social-tiktok.svg" width="16.279%" alt="tiktok"></a><a href="mailto:ayazaliofc@gmail.com"><img src="assets/social-5.svg" width="15.095%" alt="email"></a><img src="assets/social-r.svg" width="9.133%" alt="">
-<img src="banner.jpg" width="100%" alt="Banner">
 </div>
 
 <p align="center">
