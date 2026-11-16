@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="148" height="64" viewBox="0 0 148 64" role="img" aria-label="YouTube">
+<title>YouTube</title><style>
+.spin{transform-box:fill-box;transform-origin:center;animation:spin 40s linear infinite}
+.spinr{transform-box:fill-box;transform-origin:center;animation:spin 28s linear infinite reverse}
+.bob{transform-box:fill-box;transform-origin:center;animation:bob 7s ease-in-out infinite}
+.up{animation:up .8s cubic-bezier(.05,.7,.1,1) both}
+.pop{transform-box:fill-box;transform-origin:center;animation:pop .6s cubic-bezier(.34,1.56,.64,1) both}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes bob{0%,100%{transform:translateY(0) rotate(0)}50%{transform:translateY(-10px) rotate(12deg)}}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes pop{from{opacity:0;transform:scale(.6)}to{opacity:1;transform:scale(1)}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<g transform="translate(4 8)"><g class="pop">
+<rect x="1" y="1" width="140" height="46" rx="23" fill="#0a0a0a" stroke="#333"/>
+<circle cx="29" cy="24" r="13" fill="#fff"/><path d="M23 17 L23 31 L36 24 Z" fill="#000"/>
+<text x="52" y="30" fill="#fff" font-family="'Google Sans','Segoe UI',Roboto,Helvetica,Arial,sans-serif" style="font-size:16px;font-weight:600">YouTube</text>
+</g></g></svg>
