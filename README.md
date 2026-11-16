@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  <img src="assets/profile-views.svg" height="35" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=PROFILE+VIEWS&style=for-the-badge&color=000000" alt="Profile views" />
 </p>
 <br>
 
