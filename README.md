@@ -1,13 +1,8 @@
 <div align="center">
 <img src="assets/hero.svg" width="100%" alt="Ayaz">
 <img src="assets/social-l.svg" width="9.133%" alt=""><a href="https://t.me/ayazalee"><img src="assets/social-1.svg" width="18.917%" alt="telegram"></a><a href="https://www.chess.com/member/ayazaliofc"><img src="assets/social-chess.svg" width="15.285%" alt="chess"></a><a href="https://www.reddit.com/user/ayazalee"><img src="assets/social-3.svg" width="16.158%" alt="reddit"></a><a href="https://www.tiktok.com/@ayazaliofc"><img src="assets/social-tiktok.svg" width="16.279%" alt="tiktok"></a><a href="mailto:ayazaliofc@gmail.com"><img src="assets/social-5.svg" width="15.095%" alt="email"></a><img src="assets/social-r.svg" width="9.133%" alt="">
-<img src="banner.jpg" width="100%" alt="Banner">
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=PROFILE+VIEWS&style=for-the-badge&color=000000" alt="Profile views" />
-</p>
-<br>
 
 <h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About me</em></h2>
 
@@ -25,8 +20,10 @@
   <b>Expertise:</b> 𝗕𝗮𝗰𝗸𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗥𝗘𝗦𝗧 𝗔𝗣𝗜 𝗗𝗲𝘀𝗶𝗴𝗻, 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲, 𝗔𝘂𝘁𝗵𝗲𝗻𝘁𝗶𝗰𝗮𝘁𝗶𝗼𝗻 & 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆, 𝗮𝗻𝗱 𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻 𝗦𝘆𝘀𝘁𝗲𝗺𝘀.<br/>
   <b>Stack:</b> 𝗡𝗼𝗱𝗲.𝗷𝘀, 𝗧𝘆𝗽𝗲𝗦𝗰𝗿𝗶𝗽𝘁, 𝗚𝗼, 𝗠𝗼𝗻𝗴𝗼𝗗𝗕 / 𝗦𝗤𝗟.
 </p>
-
-<br/><br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayazaliofc&label=PROFILE+VIEWS&style=for-the-badge&color=000000" alt="Profile views" />
+</p>
+<br>
 
 <h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em>Technologies</em> </h2>
 
